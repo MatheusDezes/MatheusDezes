@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusDezes/96ea0dc3b591382c38bc75df7b7eba30/raw/6a73667eae3f7afa6cd1b655fa6ace8758394ab1/github.card.svg">
 <h1 align="left">Hello World!  Eu sou o Matheus Dezes<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateodezes@gmail.com)
@@ -6,6 +5,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDezes?tab=repositories)
 
 <h1 align="left">Sobre mim <img src="https://i.gifer.com/ZNec.gif" width="30px"></h1>
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusDezes/96ea0dc3b591382c38bc75df7b7eba30/raw/6a73667eae3f7afa6cd1b655fa6ace8758394ab1/github.card.svg">
 
 <p>Sou apaixonado por aprender tudo sobre Tecnologia. no momento não tenho experiência no mercado como desenvolvedor, mas tenho diversos projetos pessoais Front-end utilizando:
 
@@ -22,6 +23,8 @@ Caso tenha achado meu perfil interessante e queira falar comigo, não hesite de 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDezes&show_icons=true&theme=tokyonight)
 
 <h1 align="left">Tecnologias que utilizo no meu dia dia <img src="https://i.gifer.com/Z23b.gif" width="30px"></h1>
+
+[Z23b](https://github.com/MatheusDezes/MatheusDezes/assets/165702309/ac098147-3677-428c-924c-17b6e80a48c8)
 
 <div style="display: inline_block"></br>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
