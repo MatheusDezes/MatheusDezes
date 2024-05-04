@@ -4,7 +4,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-r-dezes-555b52264)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDezes?tab=repositories)
 
-<h1 align="left">Sobre mim <img src="https://i.gifer.com/ZNec.gif" width="30px"></h1>
+<h1 align="left">Sobre mim ⭐</h1>
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusDezes/96ea0dc3b591382c38bc75df7b7eba30/raw/6a73667eae3f7afa6cd1b655fa6ace8758394ab1/github.card.svg">
 
@@ -22,9 +22,7 @@ Caso tenha achado meu perfil interessante e queira falar comigo, não hesite de 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDezes&show_icons=true&theme=tokyonight)
 
-<h1 align="left">Tecnologias que utilizo no meu dia dia <img src="https://i.gifer.com/Z23b.gif" width="30px"></h1>
-
-[Z23b](https://github.com/MatheusDezes/MatheusDezes/assets/165702309/ac098147-3677-428c-924c-17b6e80a48c8)
+<h1 align="left">Tecnologias que utilizo no meu dia dia 💻</h1>
 
 <div style="display: inline_block"></br>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,3 +30,4 @@ Caso tenha achado meu perfil interessante e queira falar comigo, não hesite de 
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+
