@@ -15,7 +15,7 @@
 
 Estou cursando Análise de Desenvolvimento de Sistemas na universidade FMU FIAM-FAAM desde 2023. Durante a faculdade realizei varios cursos na área de progamação e tive minha primeira experiência profissional e primeira experiência no mercado financeiro: 
 
-- Contas a Pagar (São Carlos)
+- Contas a Pagar
 
 Caso tenha achado meu perfil interessante e queira falar comigo, não hesite de mandar uma mensagem!! Adoro trocar experiências e vivências :)
 </p>
