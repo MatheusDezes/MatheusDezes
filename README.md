@@ -6,7 +6,7 @@
 
 <h1 align="left">Sobre mim ⭐</h1>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusDezes/96ea0dc3b591382c38bc75df7b7eba30/raw/6a73667eae3f7afa6cd1b655fa6ace8758394ab1/github.card.svg">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusDezes/c1acbfa81c6231f06763f645066a26e6/raw/ae5e7bfbf5134eeea696d6a27c94869d5842a435/githubcard20.svg">
 
 <p>Sou apaixonado por aprender tudo sobre Tecnologia. no momento não tenho experiência no mercado como desenvolvedor, mas tenho diversos projetos pessoais Front-end utilizando:
 
@@ -20,7 +20,7 @@ Estou cursando Análise de Desenvolvimento de Sistemas na universidade FMU FIAM-
 Caso tenha achado meu perfil interessante e queira falar comigo, não hesite de mandar uma mensagem!! Adoro trocar experiências e vivências :)
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDezes&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDezes&show_icons=true&theme=gruvbox)
 
 <h1 align="left">Tecnologias que utilizo no meu dia dia 💻</h1>
 
